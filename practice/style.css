@@ -1,0 +1,25 @@
+.profile {
+    width: 350px;
+    margin: 40px auto;
+    background-color: #1e1e2e;
+    color: white;
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #7aa2f7;
+}
+
+a:hover { color: #4a3ac4;}
